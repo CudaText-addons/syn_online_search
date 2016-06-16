@@ -1,0 +1,35 @@
+[info]
+title=Online Search
+desc=Opens web-browser with search for selected text
+type=py-plugin
+subdir=syn_online_search
+
+[ini1]
+section=Commands
+id=Online Search\Wikipedia
+params=do_wikipedia
+
+[ini2]
+section=Commands
+id=Online Search\Google
+params=do_google
+
+[ini3]
+section=Commands
+id=Online Search\MSDN
+params=do_msdn
+
+[ini10]
+section=Commands
+id=Online Search\HTML4
+params=do_html4
+
+[ini11]
+section=Commands
+id=Online Search\HTML5
+params=do_html5
+
+[ini12]
+section=Commands
+id=Online Search\PHP.net
+params=do_php
